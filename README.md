@@ -6,7 +6,7 @@ These are the scripts that I create while in my Python class at SNHU.
 
 ### Scripts
 
-**Lab 1.9**
+**Lab 1.9** \n
 Asks the user for 4 inputs. Then outputs a short story using those 4 inputs.
 
 **Lab 1.10**
