@@ -47,3 +47,11 @@ Prompts user for input (ex. h Monday). Then outputs how many "h" are in the seco
 \
 Prompts users to input favorite color, flower, and number. Creates 2 password combos using the inputs. Then calculates how many characters in each password.
 </details>
+
+<details>
+<summary>Module Assignments</summary>
+
+**NameAge.py**
+\
+Prompts the user for their name and age. Then outputs what year they were born. (For this assignment, it didn't require us to check to see if the user already had a birthday or not)
+</details>
