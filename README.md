@@ -1,10 +1,15 @@
 ## <div align="center" style="border:none;">Hello 👋, I'm Kyle</div>
 
+**Written in:**
+\
 ![Written in Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 These are the scripts that I create while in my Python class at SNHU.
 
 ### Scripts
+
+<details>
+<summary>Chapter 1 Labs</summary>
 
 **Lab 1.9**
 \
@@ -25,3 +30,20 @@ Uses inputs age (years), weight (pounds), heart rate (beats per minute), and tim
 **Lab 1.23**
 \
 Prompts the user to input an integer between 32 and 126, a float, a character, and a string, storing each into separate variables. Then, outputs those four values on a single line separated by a space. Then outputs those variables in reverse order. Then converts the integer into a character and outputs the character.
+</details>
+
+<details>
+<summary>Chapter 2 Labs</summary>
+
+**Lab 2.12**
+\
+Prompts the user to input their full name (ex Kyle William Reddoch). Outputs the name in format (Reddoch, K.W.) if middle name is present, if not present, then outputs in format (Reddoch, K.).
+
+**Lab 2.13**
+\
+Prompts user for input (ex. h Monday). Then outputs how many "h" are in the second phrase (Monday).
+
+**Lab 2.14**
+\
+Prompts users to input favorite color, flower, and number. Creates 2 password combos using the inputs. Then calculates how many characters in each password.
+</details>
