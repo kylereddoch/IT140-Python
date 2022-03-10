@@ -2,7 +2,7 @@
 Created by: Kyle Reddoch
 Email: kyle.reddoch@snhu.edu
 Class: IT-140
-Professor: Malcom Wabara
+Professor: Malcolm Wabara
 """
 
 # Imports class date from module datetime
