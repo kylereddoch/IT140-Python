@@ -9,7 +9,7 @@ These are the scripts that I create while in my Python class at SNHU.
 ### Scripts
 
 <details>
-<summary>Chapter 1 Labs</summary>
+<summary>Module 1 Labs</summary>
 
 **Lab 1.9**
 \
@@ -33,7 +33,7 @@ Prompts the user to input an integer between 32 and 126, a float, a character, a
 </details>
 
 <details>
-<summary>Chapter 2 Labs</summary>
+<summary>Module 2 Labs</summary>
 
 **Lab 2.12**
 \
@@ -49,7 +49,7 @@ Prompts users to input favorite color, flower, and number. Creates 2 password co
 </details>
 
 <details>
-<summary>Module Assignments</summary>
+<summary>Class Assignments</summary>
 
 **NameAge.py**
 \
