@@ -49,9 +49,29 @@ Prompts users to input favorite color, flower, and number. Creates 2 password co
 </details>
 
 <details>
+<summary>Module 3 Labs</summary>
+
+**Lab 3.11**
+\
+Prompts the user to input 3 numbers. Converts those numbers to integers. Then finds the smallest of those numbers.
+
+**Lab 3.12**
+\
+Prompts user to input at date (ex. May 5). Determines the season of the date inputted.
+
+**Lab 3.13**
+\
+Prompts users to input a total change amount as integer (ex. 150 for $1.50). Then outputs how many of the following is needed: Dollars, Quarters, Dimes, Nickels, and Pennies.
+</details>
+
+<details>
 <summary>Class Assignments</summary>
 
 **NameAge.py**
 \
 Prompts the user for their name and age. Then outputs what year they were born. (For this assignment, it didn't require us to check to see if the user already had a birthday or not)
+
+**PrintCentury.py**
+\
+Prompts the user for a year. Then outputs whether that year was the 20th century, 21st century, Distant future, or Long ago.
 </details>
