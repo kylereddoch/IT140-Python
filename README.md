@@ -4,7 +4,7 @@
 \
 ![Written in Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-These are the scripts that I create while in my Python class at SNHU.
+These are the scripts that I created while in my Python class (IT-140) at SNHU.
 
 If you have found these to be helpful, please consider sponsoring my work or donating.
 
@@ -94,6 +94,18 @@ This program will output a right triangle based on user specified height triangl
 **Lab 4.17**
 \
 This program takes a string and an integer as input, and outputs a sentence using the input values as shown in the example below. The program repeats until the input string is quit and disregards the integer input that follows.
+</details>
+
+<details>
+<summary>Module 5 Labs</summary>
+
+**Lab 5.18**
+\
+Program asks user to input two integers and then outputs the two integers swapped.
+
+**Lab 5.19**
+\
+Similar to the exact change script from earlier lab but this time you create a function and then return num_dollars, num_quarters, num_dimes, num_nickels, and num_pennies.
 </details>
 
 <details>
