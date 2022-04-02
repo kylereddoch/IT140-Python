@@ -8,10 +8,12 @@ These are the scripts that I created while in my Python class (IT-140) at SNHU.
 
 If you have found these to be helpful, please consider sponsoring my work or donating.
 
+All Challenge Activities and Labs are from the zyBooks program. The Class Assignments are what is turned in via online learning system.
+
 ### Scripts
 
 <details>
-<summary>Module 1 Labs</summary>
+<summary>Chapter 1 Labs</summary>
 
 **Lab 1.9**
 \
@@ -35,7 +37,7 @@ Prompts the user to input an integer between 32 and 126, a float, a character, a
 </details>
 
 <details>
-<summary>Module 2 Labs</summary>
+<summary>Chapter 2 Labs</summary>
 
 **Lab 2.12**
 \
@@ -51,7 +53,7 @@ Prompts users to input favorite color, flower, and number. Creates 2 password co
 </details>
 
 <details>
-<summary>Module 3 Labs</summary>
+<summary>Chapter 3 Labs</summary>
 
 **Lab 3.11**
 \
@@ -67,7 +69,7 @@ Prompts users to input a total change amount as integer (ex. 150 for $1.50). The
 </details>
 
 <details>
-<summary>Module 4 Labs</summary>
+<summary>Chapter 4 Labs</summary>
 
 **Lab 4.14**
 \
@@ -97,7 +99,7 @@ This program takes a string and an integer as input, and outputs a sentence usin
 </details>
 
 <details>
-<summary>Module 5 Labs</summary>
+<summary>Chapter 5 Labs</summary>
 
 **Lab 5.18**
 \
