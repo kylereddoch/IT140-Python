@@ -120,7 +120,12 @@ Prompts the user for their name and age. Then outputs what year they were born. 
 **PrintCentury.py**
 \
 Prompts the user for a year. Then outputs whether that year was the 20th century, 21st century, Distant future, or Long ago.
+
+**ModuleSixAssignment.py**
+\
+This is the code written for moving between rooms for the text-based game project that will be coded for the class.
 </details>
+
 <details>
 <summary>Extras</summary>
 
