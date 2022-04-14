@@ -111,6 +111,40 @@ Similar to the exact change script from earlier lab but this time you create a f
 </details>
 
 <details>
+<summary>Chapter 6 Labs</summary>
+
+**Lab 6.12**
+\
+Program takes any number of integers as input, and outputs the average and max.
+
+**Lab 6.13**
+\
+Program gets a list of integers from input, and outputs non-negative integers in ascending order (lowest to highest).
+
+**Lab 6.18**
+\
+Program that reads a list of words. Then, outputs those words and their frequencies.
+
+**Lab 6.19**
+\
+Program that replaces words in a sentence. The input begins with word replacement pairs (original and replacement). The next line of input is the sentence where any word on the original list is replaced.
+</details>
+
+<details>
+<summary>Chapter 7 Labs</summary>
+
+**Lab 7.8**
+\
+Program first reads in the name of an input file and then reads the file using the csv.reader() method. The file contains a list of words separated by commas. Then outputs the words and their frequencies (the number of times each word appears in the file) without any duplicates.
+
+**Lab 7.9**
+\
+Program first reads in the name of an input file and then reads the input file using the file.readlines() method. The input file contains an unsorted list of number of seasons followed by the corresponding TV show. Then puts the contents of the input file into a dictionary where the number of seasons are the keys, and a list of TV shows are the values (since multiple shows could have the same number of seasons).
+
+Then sorts the dictionary by key (least to greatest) and outputs the results to a file named output_keys.txt, separating multiple TV shows associated with the same key with a semicolon (;). Next, sorts the dictionary by values (alphabetical order), and outputs the results to a file named output_titles.txt.
+</details>
+
+<details>
 <summary>Class Assignments</summary>
 
 **NameAge.py**
