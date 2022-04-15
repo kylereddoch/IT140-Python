@@ -1,3 +1,6 @@
+# Written by Kyle Reddoch
+# Date: 4/22/2020
+
 def show_intro(player_name=None):
     # Print intro
     print('\nWelcome to Space Attack,', player_name + '!', '\n', '------------------------------', '\n',
