@@ -158,6 +158,10 @@ Prompts the user for a year. Then outputs whether that year was the 20th century
 **ModuleSixAssignment.py**
 \
 This is the code written for moving between rooms for the text-based game project that will be coded for the class.
+
+**TextBasedGame.py**
+\
+Space Attack - the text-based game I wrote in Python for the class project. You can also find it at its own repository at [https://github.com/kylereddoch/SpaceAttack](https://github.com/kylereddoch/SpaceAttack).
 </details>
 
 <details>
