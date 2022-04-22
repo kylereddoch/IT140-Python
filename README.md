@@ -145,6 +145,18 @@ Then sorts the dictionary by key (least to greatest) and outputs the results to 
 </details>
 
 <details>
+<summary>Chapter 8 Labs</summary>
+
+**Lab 8.9**
+\
+In this lab, you will complete the Car class by creating an attribute purchase_price (type int) and the method print_info() that outputs the car's information.
+
+**Lab 8.10**
+\
+In this lab, you will complete the Team class implementation.
+</details>
+
+<details>
 <summary>Class Assignments</summary>
 
 **NameAge.py**
